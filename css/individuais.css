@@ -21,13 +21,6 @@ h1 {
 }
 
 
-div {
-    display: flex;
-    height: 15vh;
-    align-items: center;
-}
-
-
 img {
     /*height: 74vh;*/
     border: solid 4px hs1(207, 100%, 59%);
