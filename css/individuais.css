@@ -22,8 +22,7 @@ h1 {
 
 
 img {
-    /*height: 74vh;*/
-    border: solid 4px hs1(207, 100%, 59%);
+    height: 74vh;
     border-radius: 0.4rem;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
 }
