@@ -26,14 +26,14 @@ table {
     box-shadow: 0 5px 10px #e1e5ee;
     background-color: white;
     text-align: center;
-    overflow: hidden;
     margin: 0 auto 4rem auto;
 }
 
 
 
 h1 {
-    padding: 1.5rem;
+	font-size: 40px;
+    padding: 1.6rem;
 }
 
 
